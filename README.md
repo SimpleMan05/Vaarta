@@ -165,4 +165,5 @@ const response = await fetch('/api/translate', {
 ---
 
 ## 📄 License
-Prototype build. Not affiliated with Economic Times or Bennett Coleman & Co.
+This is a Prototype.
+Vaarta is licensed under the [GNU General Public License (GPL) v3.0](https://github.com/SimpleMan05/Vaarta/blob/main/LICENSE).
